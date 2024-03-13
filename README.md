@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NexusSfan
 - 😅 I hope you like my stuff!
 - ✌ I put some work into it!
-- Also btw GitHub i still don't like you for saying things with no licenses are bad.
 
 Stats:
 
