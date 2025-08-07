@@ -14,7 +14,7 @@ Moved to Codeberg.org
 ![App Store on Mobile](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 ![Shell](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![VCS](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Terminal Emulator](https://img.shields.io/badge/Gnome_Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Terminal Emulator](https://img.shields.io/badge/Konsole-000000?style=for-the-badge&logo=kde&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/QEMU-231f20?style=for-the-badge&logo=Qemu&logoColor=white)
 
 
